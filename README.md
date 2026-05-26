@@ -32,3 +32,9 @@ Os dados desnormalizados permitem consultas rápidas e intuitivas:
 ```sql
 SELECT * FROM vendas_datalake.datalake 
 WHERE estado = 'SC';
+```
+
+##📈 Resultados
+O pipeline demonstrou a capacidade de transformar dados brutos não estruturados em informações prontas para análise de negócio, utilizando a escalabilidade da nuvem AWS.
+
+**Projeto desenvolvido como parte do curso de Engenharia de Dados.**
