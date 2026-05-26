@@ -37,4 +37,4 @@ WHERE estado = 'SC';
 ## 📈 Resultados
 O pipeline demonstrou a capacidade de transformar dados brutos não estruturados em informações prontas para análise de negócio, utilizando a escalabilidade da nuvem AWS.
 
-**Projeto desenvolvido como parte do curso de Engenharia de Dados.**
+## **Projeto desenvolvido como parte do curso de Engenharia de Dados.**
